@@ -22,3 +22,6 @@ This test suite contains five automated tests that cover key discussion board fu
 
 ## Getting Started
 Clone the repository, Run HW3Testbed.java in src/application as java application
+
+## Link To My Screencast
+https://youtu.be/0ISZvBxW2B4
