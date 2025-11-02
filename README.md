@@ -1,4 +1,4 @@
-# HW2 Q&A Application Automated Testing
+# HW3 Discussion Board Automated Testing
 
 ## Overview
 HW3Testbed is a Java command-line application that performs automated testing for the Discussion Board system, validating question and answer operations within the database. It verifies that CRUD functionality, data integrity, and validation rules behave as expected when users interact with Question and Answer entities via the DiscussionBoardDAO data access layer.
